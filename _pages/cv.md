@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Check my CV here](http://Xiaomin-Li.github.io/files/My_Resume_PhD.pdf)
+[Check my CV here](http://Xiaomin-Li.github.io/files/Resume.pdf)
 
 
 <!-- {% include base_path %}
