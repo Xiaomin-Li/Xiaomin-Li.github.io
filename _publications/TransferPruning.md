@@ -6,7 +6,7 @@ permalink: /publication/TransferPruning
 date: 2020/3
 venue: 'The Resource-Constrained Machine Learning Workshop in conjunction with IEEE Conference on Machine Learning and Systems (MLSys’ 20)'
 # paperurl: 'https://par.nsf.gov/servlets/purl/10171703'
-# citation: 'Li, Xiaomin, Cody Blakeney, and Ziliang Zong. "Transfer Learning with Fine-grained Sparse Networks: From an Efficient Network Perspective." In The Resource-Constrained Machine Learning Workshop in conjunction with IEEE Conference on Machine Learning and Systems (MLSys’ 20). 2020.'
+citation: 'Li, Xiaomin, Cody Blakeney, and Ziliang Zong. "Transfer Learning with Fine-grained Sparse Networks: From an Efficient Network Perspective." In The Resource-Constrained Machine Learning Workshop in conjunction with IEEE Conference on Machine Learning and Systems (MLSys’ 20). 2020.'
 ---
 
 [Download paper here](https://par.nsf.gov/servlets/purl/10171703)
